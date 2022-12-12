@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\mahom\OpenCVProject1\OpenCVProject1\main.cpp(33,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mahom\OpenCVProject1\OpenCVProject1\main.cpp(34,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  OpenCVProject1.vcxproj -> C:\Users\mahom\OpenCVProject1\x64\Debug\OpenCVProject1.exe

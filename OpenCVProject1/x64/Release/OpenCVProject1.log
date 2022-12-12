@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\mahom\OpenCVProject1\OpenCVProject1\main.cpp(33,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mahom\OpenCVProject1\OpenCVProject1\main.cpp(34,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  0 of 103 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenCVProject1.vcxproj -> C:\Users\mahom\OpenCVProject1\x64\Release\OpenCVProject1.exe
